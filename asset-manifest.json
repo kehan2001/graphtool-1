@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/graphtheorytool/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/graphtheorytool/static/js/main.03a0e967.chunk.js",
-    "main.js.map": "/graphtheorytool/static/js/main.03a0e967.chunk.js.map",
-    "runtime-main.js": "/graphtheorytool/static/js/runtime-main.9c6a3131.js",
-    "runtime-main.js.map": "/graphtheorytool/static/js/runtime-main.9c6a3131.js.map",
-    "static/css/2.6dbccb46.chunk.css": "/graphtheorytool/static/css/2.6dbccb46.chunk.css",
-    "static/js/2.17f50e16.chunk.js": "/graphtheorytool/static/js/2.17f50e16.chunk.js",
-    "static/js/2.17f50e16.chunk.js.map": "/graphtheorytool/static/js/2.17f50e16.chunk.js.map",
-    "static/js/3.04c9f94f.chunk.js": "/graphtheorytool/static/js/3.04c9f94f.chunk.js",
-    "static/js/3.04c9f94f.chunk.js.map": "/graphtheorytool/static/js/3.04c9f94f.chunk.js.map",
-    "index.html": "/graphtheorytool/index.html",
-    "static/css/2.6dbccb46.chunk.css.map": "/graphtheorytool/static/css/2.6dbccb46.chunk.css.map",
-    "static/css/main.ea1455b2.chunk.css.map": "/graphtheorytool/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.17f50e16.chunk.js.LICENSE.txt": "/graphtheorytool/static/js/2.17f50e16.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/graphtheorytool/static/media/logo.6ce24c58.svg"
+    "main.css": "/graphtool/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/graphtool/static/js/main.03a0e967.chunk.js",
+    "main.js.map": "/graphtool/static/js/main.03a0e967.chunk.js.map",
+    "runtime-main.js": "/graphtool/static/js/runtime-main.88849883.js",
+    "runtime-main.js.map": "/graphtool/static/js/runtime-main.88849883.js.map",
+    "static/css/2.6dbccb46.chunk.css": "/graphtool/static/css/2.6dbccb46.chunk.css",
+    "static/js/2.e57da37d.chunk.js": "/graphtool/static/js/2.e57da37d.chunk.js",
+    "static/js/2.e57da37d.chunk.js.map": "/graphtool/static/js/2.e57da37d.chunk.js.map",
+    "static/js/3.04c9f94f.chunk.js": "/graphtool/static/js/3.04c9f94f.chunk.js",
+    "static/js/3.04c9f94f.chunk.js.map": "/graphtool/static/js/3.04c9f94f.chunk.js.map",
+    "index.html": "/graphtool/index.html",
+    "static/css/2.6dbccb46.chunk.css.map": "/graphtool/static/css/2.6dbccb46.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/graphtool/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.e57da37d.chunk.js.LICENSE.txt": "/graphtool/static/js/2.e57da37d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/graphtool/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c6a3131.js",
+    "static/js/runtime-main.88849883.js",
     "static/css/2.6dbccb46.chunk.css",
-    "static/js/2.17f50e16.chunk.js",
+    "static/js/2.e57da37d.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.03a0e967.chunk.js"
   ]
